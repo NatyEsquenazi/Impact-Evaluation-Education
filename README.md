@@ -1,1 +1,8 @@
-# Applied-Regression
+# Impact Evaluation Education
+The pandemic Covid-19 had dramatic consequences in many countries. The expansion of the virus particularly affected public education and transformed the learning paths of more than 1.6 million of students around the world (UNESCO, 2022). The numerous obstacles for the regular development of the learnings procedures challenged many schools to adapt quickly to a new learning environment. 
+
+The critical impact on education also led to exacerbate the preexisting inequalities. During this period, it was evident the importance of the learning infrastructure to guarantee the continuation of the pedagogic procedures. Many schools that already had infrastructure issues suffered one of the most severe consequences of the pandemic: school exclusion. As a result of the described challenges, governments in Latin America analyzed the consequences on school performance. The World Bank estimated that 71% of students faced learning comprehension difficulties, and the rate was 12% higher for low-income students (World Bank, 2020).     
+
+In Argentina, the Ministery of Education worked towards the implementation of a public policy focused on supporting primary public schools' students. By the end of 2021, the 1h+ program increased the study hours from 4 to 5 in public primary school expecting to improve students' performance. The learning assessment “Apreder” was in charge of measuring learning outcomes across the period for public and private primary schools.  
+
+This analysis is motivated by the following research question: does an extension in the study hours increase the performance of primary public schools? Considering the importance of obtaining unbiased and robust estimations, a panel data model with fixed effects and a difference in differences model was implemented.  
